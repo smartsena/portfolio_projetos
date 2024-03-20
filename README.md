@@ -1,7 +1,7 @@
-# portifolio_projetos
+# portfolio_projetos
 
 
-https://smartsena.github.io/portifolio_projetos
+https://smartsena.github.io/portfolio_projetos
 
 
 
