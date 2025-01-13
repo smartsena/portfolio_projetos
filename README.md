@@ -1,15 +1,14 @@
-# portfolio_projetos
+# Portfolio de Projetos
 
 Sejam bem vindos.
 
-Este projeto é destinado a apresentação das minhas experiências profissionais, página web para que possam me conhecer melhor e realizar de forma fácil o download do meu currículo.
+A finalidade da página web publicada por meio das linhas de códigos contidas nestes repositório é proporcionar aos senhores(as), de uma forma rápida e sucinta,  a possibilidade de me conhecerem profissionalmente.
+
+Este projeto é dedicado ao Lucas Sena Alves de uma perspectiva profissional. De tal modo, destino essa sessão do meu github a apresentação das minhas qualificações e experiências profissionais.
+
+Este repositório é uma iniciativa destinada para que os interessados em minha carreira profissional e conhecimentos adquiridos, possam conhecer minhas habilidades, tendo acesso para consumo e/ou compartilhamento de meu currículo, seja para valorosos network ou oportunidades de emprego.
 
 
-Página WEB
+
+Acesse abaixo meu Portfólio de Projetos:
 https://smartsena.github.io/portfolio_projetos
-
-
-Localjost
-file:///home/lucas/LSA/workspace/sistemas/portfolio_projetos/index.html
-
-
